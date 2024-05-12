@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "5FM",
+      "image": "https://example.com/5fm-logo.png",
+      "streamUrl": "https://example.com/5fm-stream.mp3",
+      "frequency": "93.6 MHz",
+      "genre": "Contemporary Hit Radio"
+    },
+    {
+      "id": 2,
+      "name": "Jacaranda FM",
+      "image": "https://example.com/jacaranda-fm-logo.png",
+      "streamUrl": "https://example.com/jacaranda-fm-stream.mp3",
+      "frequency": "94.2 MHz",
+      "genre": "Adult Contemporary"
+    },
+    {
+      "id": 3,
+      "name": "Kaya FM",
+      "image": "https://example.com/kaya-fm-logo.png",
+      "streamUrl": "https://example.com/kaya-fm-stream.mp3",
+      "frequency": "95.9 MHz",
+      "genre": "Urban Adult Contemporary"
+    },
+    {
+      "id": 4,
+      "name": "Metro FM",
+      "image": "https://example.com/metro-fm-logo.png",
+      "streamUrl": "https://example.com/metro-fm-stream.mp3",
+      "frequency": "92.4 MHz",
+      "genre": "Urban Contemporary"
+    },
+    {
+      "id": 5,
+      "name": "Radio 2000",
+      "image": "https://example.com/radio-2000-logo.png",
+      "streamUrl": "https://example.com/radio-2000-stream.mp3",
+      "frequency": "97.2 MHz",
+      "genre": "Talk Radio"
+    },
+    {
+      "id": 6,
+      "name": "Radio 93.6",
+      "image": "https://example.com/radio-936-logo.png",
+      "streamUrl": "https://example.com/radio-936-stream.mp3",
+      "frequency": "93.6 MHz",
+      "genre": "Talk Radio"
+    }
+  ]
