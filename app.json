@@ -7,7 +7,7 @@
     "icon": "./assets/RADIOWAVE_LOGO.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "../assets/RADIOWAVE_LOGO_Transparent.png",
+      "image": "./assets/RADIOWAVE_LOGO_Transparent.png",
       "resizeMode": "contain",
       "backgroundColor": "#3498DB"
     },
