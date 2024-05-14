@@ -11,6 +11,11 @@ const HomeScreen = () => {
 
   return (
     <View style={styles.container}>
+      {/* Display centered logo */}
+      <Image
+        source={require('../assets/RADIOWAVE_LOGO_Transparent.png')}
+        style={{ width: 200, height: 200, alignSelf: 'center' }}
+      />
       <Text style={styles.title}>Radio Stations</Text>
       <FlatList
         data={stations}
@@ -50,6 +55,10 @@ const styles = StyleSheet.create({
     shadowOpacity: 0.1,
     shadowRadius: 10,
     elevation: 5,
+    margin: 5,
+    justifyContent: 'center',
+    alignItems: 'center',
+    marginBottom: 10,
   },
   image: {
     width: 100,

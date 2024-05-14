@@ -40,5 +40,26 @@
       "image": "https://www.musicinafrica.net/sites/default/files/styles/profile_images_large/public/images/music_professional_profile/201407/tshwanefmlogojpeg.jpg?itok=lOLsaLYi",
       "streamUrl": "https://example.com/radio-936-stream.mp3",
       "genre": "Talk Radio"
+    },
+    {
+      "id": 7,
+      "name": "WFM",
+      "image": "https://www.wfm.co.za/images/logo.png",
+      "streamUrl": "https://example.com/wfm-stream.mp3",
+      "genre": "Talk Radio"
+    },
+    {
+      "id": 8,
+      "name": "ZFM",
+      "image": "https://www.zfm.co.za/wp-content/uploads/2021/04/ZFM-logo.png",
+      "streamUrl": "https://example.com/zfm-stream.mp3",
+      "genre": "Talk Radio"
+    },
+    {
+      "id": 9,
+      "name": "ZFM 92.3",
+      "image": "https://www.zfm.co.za/wp-content/uploads/2021/04/ZFM-logo.png",
+      "streamUrl": "https://example.com/zfm-923-stream.mp3",
+      "genre": "Talk Radio"
     }
   ]
