@@ -46,7 +46,8 @@ const styles = StyleSheet.create({
   title: {
     fontSize: 24,
     fontWeight: 'bold',
-    color: '#3498DB', // Primary color
+    color: '#3498DB',
+    alignContent:'space-around',
   },
   stationItem: {
     padding: 10,
@@ -78,6 +79,7 @@ const styles = StyleSheet.create({
   '@media (max-width: 600px)': {
     stationItem: {
       width: '100%',
+      alignItems: 'center',
     },
     image: {
       width: 80,
