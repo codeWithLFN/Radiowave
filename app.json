@@ -1,8 +1,9 @@
 {
   "expo": {
     "name": "Radiowave",
-    "slug": "Radiowave",
+    "slug": "radiowave",
     "version": "1.0.0",
+    "owner": "codewithlfn",
     "orientation": "portrait",
     "icon": "./assets/RADIOWAVE_LOGO.png",
     "userInterfaceStyle": "light",
@@ -22,10 +23,14 @@
         "foregroundImage": "./assets/RADIOWAVE_LOGO.png",
         "backgroundColor": "#ffffff"
       }
-
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "41f28506-3569-427e-90e6-f13900ea258b"
+      }
     }
   }
 }
